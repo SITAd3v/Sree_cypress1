@@ -1,0 +1,22 @@
+{
+  "name": "sreecypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SITAd3v/Sree_cypress1.git"
+  },
+  "author": "sree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SITAd3v/Sree_cypress1/issues"
+  },
+  "homepage": "https://github.com/SITAd3v/Sree_cypress1#readme",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  }
+}
